@@ -1,0 +1,13 @@
+Objectives:
+Better understand / predict how much revenue to expect from each customer within their first year of orders.
+Better promote / predict the "Halfway there" product to a wider audience.
+
+Feature Engineering:
+Turn emails into a categorical variable
+Making Outlier into a feature
+Use ols to pick some columns that are highly irrelevant with p values.
+
+Model Exploration:
+Simple Correlation Analysis¶
+Standardized Linear Regression with Sklearn
+Try different regression model and pick the highest accuracy model( Gradient Boosting Regression )
